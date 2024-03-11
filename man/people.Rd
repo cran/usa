@@ -4,7 +4,8 @@
 \name{people}
 \alias{people}
 \title{Synthetic Sample of US population}
-\format{A tibble with 20,000 rows and 40 variables:
+\format{
+A tibble with 20,000 rows and 40 variables:
 \describe{
 \item{id}{Sequential unique ID}
 \item{fname}{Random first name, see details}
@@ -46,11 +47,12 @@
 \item{ideology}{Political ideology}
 \item{govt}{Follows government and public affairs}
 \item{guns}{Owns a gun}
-}}
+}
+}
 \source{
 “For Weighting Online Opt-In Samples, What Matters Most?” Pew
 Research Center, Washington, D.C. (January 26, 2018)
-\url{http://pewrsr.ch/2rNawC7}
+\url{https://www.pewresearch.org/methods/2018/01/26/for-weighting-online-opt-in-samples-what-matters-most/}
 }
 \usage{
 people
@@ -61,11 +63,11 @@ record is a simulated survey respondent.
 }
 \details{
 This dataset was originally produced by the Pew Research center for their
-paper entitled \href{http://pewrsr.ch/2rNawC7}{\emph{For Weighting Online Opt-In Samples, What Matters Most?}}
+paper entitled \href{https://www.pewresearch.org/methods/2018/01/26/for-weighting-online-opt-in-samples-what-matters-most/}{\emph{For Weighting Online Opt-In Samples, What Matters Most?}}
 The synthetic population dataset was created to serve as a reference for
 making online opt-in surveys more representative of the overall population.
 
-See \href{https://www.pewresearch.org/methods/?p=85}{Appendix B: Synthetic population dataset} for a more detailed
+See \href{https://www.pewresearch.org/methods/2018/01/26/appendix-b-synthetic-population-dataset/}{Appendix B: Synthetic population dataset} for a more detailed
 description of the method for and rationale behind creating this dataset.
 
 In short, the dataset was created to overcome the limitations of using large,
