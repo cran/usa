@@ -1,9 +1,9 @@
-42bcbe64657f853abc6f51a6309c4dca *DESCRIPTION
+bb27ad908853b4565cc7ffc8e603e8f8 *DESCRIPTION
 35745c01755f5ea5ecbe9eb98e83dcdc *NAMESPACE
-f7998ef14d0d78ad48dcba35c55f51c3 *NEWS.md
-37b6d4985fb6dfd109d7480476629f41 *R/data.R
+4e4b0ce4361aa3b2f4e13271a1eba8e4 *NEWS.md
+b12330a80de09a3dc2142e0ef6709317 *R/data.R
 09a81509f83953d8ad310cd9ac82fd4c *R/state-convert.R
-636262802d560e78dd8b8d481fd14300 *README.md
+53be048c2d90f8c1df586dac40db2f87 *README.md
 4b481ce46bd2b700db163097db7e9fa9 *data/city.name.rda
 bfa597f5960e22df6d5270cc93e48183 *data/counties.rda
 b092392005fea41cbdc7dc507ab28c62 *data/county.name.rda
@@ -29,7 +29,7 @@ e7b9d06c71774f286386fae58d6c100b *data/zip.code.rda
 8389f03b2cdfdd6482514bca87ad5a09 *man/city.name.Rd
 b039f68d47b26ddb1cf1e515145953cb *man/counties.Rd
 bbc9e7d370a0d6f84564071c382247b1 *man/county.name.Rd
-89f49aa36d52726c8bc10d3161501a8c *man/facts.Rd
+d5b821e304b0bf7ef6dc8aac3463256e *man/facts.Rd
 e8d0aa7eb1e5b16f40241269888756e1 *man/figures/logo.png
 67f75ec7cd86fef63ad2869bc379c20c *man/people.Rd
 d0c7322eede67cb213f9969b9b9fed60 *man/state.abb.Rd
